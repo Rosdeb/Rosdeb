@@ -1,3 +1,8 @@
+### 👨‍💻 Android Developer
+
+[![Android Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNHkbUoq0SVfO2ifNTdH7cas710OA08DYVw&s)](link)
+
+
 <h4 align="left">Hi 👋! My name is Rosdeb Koch, and I'm an Android Developer specializing in Java. Currently, I'm on going diploma in Computer Science and Technology (CST).</h4>
 
 ###
