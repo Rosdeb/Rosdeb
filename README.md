@@ -66,6 +66,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rosdeb/Rosdeb/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rosdeb/Rosdeb/output/snake.svg" alt="Snake animation" width="500" height="auto" />
+
 
 ###
