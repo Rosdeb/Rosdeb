@@ -1,6 +1,6 @@
 ### 👨‍💻 Android Developer
 
-[![Android Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNHkbUoq0SVfO2ifNTdH7cas710OA08DYVw&s)](link)
+[![Android Developer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)](link)
 
 
 <h4 align="left">Hi 👋! My name is Rosdeb Koch, and I'm an Android Developer specializing in Java. Currently, I'm on going diploma in Computer Science and Technology (CST).</h4>
