@@ -1,0 +1,28 @@
+name: Update Snake Animation
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # This will run once every day at midnight UTC.
+  workflow_dispatch: # Allow manual trigger as well.
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Generate Snake Animation
+      uses: platane/platane@v2
+      with:
+        github_user: 'Rosdeb'  # Replace with your GitHub username
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        output: './snake.svg'
+
+    - name: Commit and push snake.svg
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: 'Update snake animation'
+        file_pattern: 'snake.svg'
+        branch: 'main'  # Replace with your branch if needed
