@@ -2,7 +2,7 @@
 <h4 align="center">Android · Java · Dart · Swift · Diploma in CST</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&center=true&vCenter=true&width=435&lines=Building+Android+apps+with+Java;Always+learning+new+things;Open+to+collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Building+Android+%26+iOS+with+Flutter+%26+Java;Always+learning+new+things;Open+to+collaborate!" alt="Typing SVG" />
 </p>
 
 <p align="center">
