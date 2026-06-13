@@ -9,16 +9,29 @@
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif" width="100%" alt="Android Developer Banner" />
 </p>
 
-<h4 align="left">Hi 👋! My name is Rosdeb Koch, and I'm an Android Developer specializing in Java. Currently pursuing a Diploma in Computer Science and Technology (CST).</h4>
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
----
+👋 Hi, I'm Rosdeb Koch
+🚀 Flutter Mobile Developer | Android Developer | Flutter | Java
 
-### 🧑‍💻 About me
+Flutter Mobile Developer with 1+ years of experience building scalable cross-platform applications for Android and iOS. Experienced in Flutter, Swift, and Java (Android) development with strong knowledge of Firebase, REST APIs, WebRTC, real-time systems, and modern mobile architecture.
 
-- 📱 Android Developer specializing in **Java**
-- 🎓 Ongoing Diploma in **Computer Science & Technology (CST)**
-- 🌱 Currently exploring **Kotlin** & modern Android architecture
-- 📍 Based in **Bangladesh**
+Successfully delivered and published multiple production applications on Google Play Store and Apple App Store, focusing on performance, scalability, and user experience.
+
+### About Me
+-------------------
+📱 Flutter Mobile Developer with experience in Android & iOS development
+☕ Strong background in Android Development using Java
+🌱 Currently exploring Kotlin and modern Android architecture
+🔥 Experienced with Firebase, WebRTC, REST APIs, Socket.io, Stripe, and real-time systems
+🎓 Diploma in Computer Science & Technology (CST)
+📍 Based in Bangladesh
+🏆 Key Achievements
+✅ 10+ Mobile Projects Completed
+📲 4+ Applications Published on Google Play Store & Apple App Store
+🚀 Built scalable Flutter applications used by thousands of users
+⚡ Improved application performance by up to 40%
+🌍 Developed real-time communication and location-tracking solutions
 
 ---
 
